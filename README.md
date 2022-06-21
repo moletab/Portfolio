@@ -2,8 +2,7 @@
 This Portfloio is a small project using HTML / CSS and Boostrap. I will be u sing this to showcase my projects !
 
 [live heroku Deployment](https://portfolio-troy.herokuapp.com/)
-
-![Web 1920 – 1](https://user-images.githubusercontent.com/75588548/153941578-910ba5a7-2b6a-46b0-bb49-042423e1ae15.png)
+![Capture](https://user-images.githubusercontent.com/75588548/174889405-e5be4c5d-128c-402a-a32f-21ad56ef29bd.PNG)
 
 ## Techonlogies Used
 
