@@ -1,7 +1,7 @@
 ## Portfolio
 This Portfloio is a small project using HTML / CSS and Boostrap. I will be u sing this to showcase my projects !
 
-[live heroku Deployment](https://portfolio-troy.herokuapp.com/)
+[live Replit Deployment](https://portfolio.moletab.repl.co/)
 ![Capture](https://user-images.githubusercontent.com/75588548/174889405-e5be4c5d-128c-402a-a32f-21ad56ef29bd.PNG)
 
 ## Techonlogies Used
